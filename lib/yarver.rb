@@ -5,5 +5,6 @@ require 'yarver/version'
 # @author autopp <autopp.inc@gmail.com>
 #
 module Yarver
-  # Your code goes here...
 end
+
+require 'yarver/cli'
